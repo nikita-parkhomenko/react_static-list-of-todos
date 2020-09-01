@@ -1,0 +1,2 @@
+.App{text-align:center}body{font-family:sans-serif}.todo-list{display:flex;justify-content:space-between;flex-wrap:wrap;padding-left:0;margin:0 auto;width:800px;list-style:none}.todo-item{width:250px;border:2px solid coral;border-radius:20px;margin-bottom:20px;cursor:pointer;transition:transform .4s}.todo-item:hover{transform:scale(1.1);background-color:#ffffb1}.todo-item h3{margin:10px}.status{color:#ff3c00}.user-name{font-size:18px;font-weight:600;color:brown}
+/*# sourceMappingURL=main.7076e59c.chunk.css.map */
